@@ -96,6 +96,7 @@ function checkAnswers() {
     });
 
     answerInput.value = ''; // Clear the input field for another attempt
+    answerInput.focus();
   }
 }
 
