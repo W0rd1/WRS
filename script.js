@@ -128,3 +128,22 @@ function displayReview() {
     });
   }
 }
+
+
+window.addEventListener('load',function(){
+  displayQuestions();
+});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
